@@ -1,5 +1,14 @@
 # Windows Server Administration
 
+<p align="center">
+
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge)
+![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Documentation](https://img.shields.io/badge/Documentation-4285F4?style=for-the-badge)
+
+</p>
+
 A structured collection of documentation and practical reference material for Windows Server administration. This repository covers core Windows Server concepts, Active Directory services, networking components, PowerShell, Microsoft Entra Connect, and common troubleshooting scenarios.
 
 ---
